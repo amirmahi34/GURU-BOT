@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923456664855', 'c̲r̲a̲s̲h̲', true],
-  ['923057581722', 'ch mushahid', true], 
+  ['923456664855', 'crash', true],
+  ['923456664855', 'crash', true], 
   [''] 
 ] //Number of owners
 
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 global.botname = '𝘾𝙧𝙖𝙨𝙝 𝙝𝙚𝙖𝙧𝙩'
 global.premium = 'true'
 global.packname = '𝘾𝙧𝙖𝙨𝙝 𝙝𝙚𝙖𝙧𝙩' 
-global.author = '@Crash' 
+global.author = '@Crash hacker' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/C8b2IpZfQEBAZq0TTkIvM9'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
