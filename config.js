@@ -7,9 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923456664855', 'CRASH', true],
+  ['923057581722', 'BOSS', true],
   ['6281255369012', 'Ash', true], 
-  [''] 
+  ['923456664855', 'CRASH, true],
 ] //Number of owners
 
 global.mods = ['917605902011','32460248586'] 
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝘾𝙧𝙖𝙨𝙝𝙝𝙚𝙖𝙧𝙩'
+global.botname = '𝘾𝙧𝙖𝙨𝙝'
 global.premium = 'true'
-global.packname = '𝘾𝙧𝙖𝙨h𝙝𝙚𝙖𝙧𝙩' 
-global.author = '@Crashhacker' 
+global.packname = '𝘾𝙧𝙖𝙨𝙝' 
+global.author = '@Crash' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/C8b2IpZfQEBAZq0TTkIvM9'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
@@ -64,7 +64,7 @@ global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌' 
-global.xmoji = '🔥' 
+global.xmoji = '😘' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
